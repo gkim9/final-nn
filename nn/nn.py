@@ -1,4 +1,4 @@
-# NOTE: I ran into a bunch of issues with dimensions not working, so I had to resort to AI tools to debug
+# NOTE: I ran into a bunch of issues with dimensions not working, so I had to resort to AI tools to debug. 
 
 # Imports
 import numpy as np

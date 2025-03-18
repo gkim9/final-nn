@@ -1,3 +1,6 @@
+![BuildStatus](https://github.com/gkim9/final-nn/actions/workflows/test.yml/badge.svg?event=push)
+
+
 # Final project: neural network
 
 ## Overview
