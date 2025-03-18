@@ -7,9 +7,9 @@
 
 In this assignment, you will implement a neural network class from (almost) scratch. You will then apply your class to create both:
 
-**(1) a simple 64x16x64 autoencoder.**
+**(1) a simple 64x16x64 autoencoder. (Part 2)**
 
-**(2) a classifier for transcription factor binding sites.**
+**(2) a classifier for transcription factor binding sites. (Part 3)**
 
 You will begin by finishing the API for generating fully connected neural networks from scratch. You will then make Jupyter Notebooks where you create, train, and test your autoencoder and classifier.
 
